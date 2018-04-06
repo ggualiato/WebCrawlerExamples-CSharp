@@ -1,0 +1,9 @@
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\CrawlerExemple.exe.config
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\CrawlerExemple.exe
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\CrawlerExemple.pdb
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\HtmlAgilityPack.dll
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\bin\Debug\HtmlAgilityPack.xml
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\obj\Debug\CrawlerExemple.exe
+C:\Users\re035129\documents\visual studio 2012\Projects\CrawlerExemple\CrawlerExemple\obj\Debug\CrawlerExemple.pdb
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\CrawlerExemple\CrawlerExemple\obj\Debug\CrawlerExemple.csprojResolveAssemblyReference.cache
